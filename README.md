@@ -5,3 +5,4 @@
 
 ### My projects 
 - [ClassWorkcpp](https://github.com/AbsGosha/ClassWorkcpp) - классные работы по C++
+- [HomeWorkcpp](https://github.com/AbsGosha/HomeWorkcpp/blob/main/README.md#homeworkcpp) - домашние работы по C++
